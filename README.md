@@ -1,3 +1,5 @@
 # curso-git-hub-refactored-bassoon
 
-Bem vindo :tada:
+Bem vindo, fulano :tada:
+
+Closes # 1
